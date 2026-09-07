@@ -13,6 +13,6 @@ we create a ne folder name Components in src and add a file Navbar.tsx and impor
 
 in index.tsx we delete footer
 
-create Footer.tex components in src
+create Footer.tsx components in src
 
 npm i lucide-reactI (for icons)
