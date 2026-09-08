@@ -1,0 +1,3 @@
+create npx create-next-app@latest
+
+create navbar and footer
